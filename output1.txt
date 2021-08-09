@@ -1,0 +1,90 @@
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Propriedade inexistente.
+
+Propriedade inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Pesquisa nao devolveu resultados.
+
+Pesquisa nao devolveu resultados.
+
+Insercao de utilizador com sucesso.
+
+Jonh Smith: South Carolina, United Kingdom, jsmith@gmail.com, 212121212
+
+Utilizador existente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador atualizado com sucesso.
+
+Jonh Smith: Kensington Palace, Kensington Gardens, London W8 4PX, United Kingdom, jsmith@hotmail.com, 212121219
+
+Utilizador nao viajou.
+
+Utilizador removido com sucesso.
+
+Utilizador inexistente.
+
+Insercao de utilizador com sucesso.
+
+Propriedade inexistente.
+
+Utilizador nao e proprietario.
+
+Utilizador inexistente.
+
+Utilizador nao viajou.
+
+Utilizador inexistente.
+
+Dados invalidos.
+
+Dados invalidos.
+
+Dados invalidos.
+
+Utilizador inexistente.
+
+Propriedade adicionada com sucesso.
+
+Propriedade existente.
+
+loftLx Loft near Historical Center Rua da Rosa, 110, Lisboa, Portugal Bairro Alto 60 4 0
+
+Propriedade inexistente.
+
+Loft near Historical Center: Rua da Rosa, 110, Lisboa, Portugal, Bairro Alto, 60, 4, 0, Joao Silva
+
+Utilizador e proprietario.
+
+Propriedade inexistente.
+
+Dados invalidos.
+
+Dados invalidos.
+
+Pesquisa nao devolveu resultados.
+
+loftLx Loft near Historical Center Rua da Rosa, 110, Lisboa, Portugal Bairro Alto 60 4 0
+
+Pesquisa nao devolveu resultados.
+
+loftLx Loft near Historical Center Rua da Rosa, 110, Lisboa, Portugal Bairro Alto 60 4 0
+
+Gravando e terminando...
+

@@ -1,0 +1,224 @@
+Insercao de utilizador com sucesso.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Joao Utilizador Um: morada invalida, Portugal, emailInvalido, telefoneInvalido
+
+Utilizador atualizado com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Utilizador atualizado com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Joao Utilizador Um: morada misterio, Portugal, email1, 211111111
+
+Juan Utilizador Dois: morada misteriosa, Espanha, email2, 211111111
+
+Joana Utilizadora Tres: morada secreta, Portugal, email3, 211111111
+
+Julia Utilizadora Quatro: morada indefinida, Portugal, email4, 211111111
+
+Jean Utilizador Cinco: morada desconhecida, Franca, email5, 211111111
+
+Manuel Proprietario Um: morada misterio, Portugal, email1, 211111111
+
+Maria Proprietaria Dois: morada misteriosa, Espanha, email2, 211111111
+
+Madalena Proprietaria Tres: morada secreta, Portugal, email3, 211111111
+
+Matilde Proprietaria Quatro: morada indefinida, Portugal, email4, 211111111
+
+Mike Proprietario Cinco: morada desconhecida, UK, email5, 211111111
+
+boas vistas: morada no Funchal, Funchal, 50, 5, 0, Manuel Proprietario Um
+
+espantoso: morada em Sevilha, Sevilha, 50, 5, 0, Maria Proprietaria Dois
+
+indescritivel: morada no Porto, Porto, 70, 5, 0, Madalena Proprietaria Tres
+
+5min da praia: morada em Albufeira, Albufeira, 100, 10, 0, Matilde Proprietaria Quatro
+
+extraordinario: morada em Londres, Londres, 200, 10, 0, Mike Proprietario Cinco
+
+Utilizador removido com sucesso.
+
+Utilizador removido com sucesso.
+
+Propriedade removida com sucesso.
+
+Utilizador e proprietario.
+
+Utilizador removido com sucesso.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Propriedade inexistente.
+
+Viajante nao e o proprietario.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Viajante e o proprietario.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Joana Utilizadora Tres: morada secreta, Portugal, email3, 211111111
+
+Julia Utilizadora Quatro: morada indefinida, Portugal, email4, 211111111
+
+Jean Utilizador Cinco: morada desconhecida, Franca, email5, 211111111
+
+Utilizador inexistente.
+
+Manuel Proprietario Um: morada misterio, Portugal, email1, 211111111
+
+Maria Proprietaria Dois: morada misteriosa, Espanha, email2, 211111111
+
+Utilizador inexistente.
+
+Matilde Proprietaria Quatro: morada indefinida, Portugal, email4, 211111111
+
+Mike Proprietario Cinco: morada desconhecida, UK, email5, 211111111
+
+Utilizador nao e proprietario.
+
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+casa2 espantoso morada em Sevilha Sevilha 50 5 0
+
+Utilizador inexistente.
+
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+
+Utilizador inexistente.
+
+Utilizador inexistente.
+
+Utilizador nao viajou.
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+casa5 extraordinario morada em Londres Londres 200 10 19
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+Utilizador inexistente.
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+Utilizador nao viajou.
+
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+casa2 espantoso morada em Sevilha Sevilha 50 5 0
+
+Pesquisa nao devolveu resultados.
+
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+casa2 espantoso morada em Sevilha Sevilha 50 5 0
+
+Pesquisa nao devolveu resultados.
+
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+
+Pesquisa nao devolveu resultados.
+
+Pesquisa nao devolveu resultados.
+
+Pesquisa nao devolveu resultados.
+
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+
+Pesquisa nao devolveu resultados.
+
+casa1 boas vistas morada no Funchal Funchal 50 5 8
+
+casa2 espantoso morada em Sevilha Sevilha 50 5 0
+
+Pesquisa nao devolveu resultados.
+
+casa4 5min da praia morada em Albufeira Albufeira 100 10 5
+
+casa5 extraordinario morada em Londres Londres 200 10 19
+
+Pesquisa nao devolveu resultados.
+
+Gravando e terminando...
+

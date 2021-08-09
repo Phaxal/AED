@@ -1,0 +1,250 @@
+IU ut1 emailInvalido telefoneInvalido Joao Utilizador Um
+Portugal
+morada invalida
+
+UU ut2 nada nada 
+nada
+
+RU ut2
+
+GU ut2
+
+GU ut1
+
+UU ut1 email1 211111111
+morada misterio
+
+IU prop1 email1 211111111 Manuel Proprietario Um
+Portugal
+morada misterio
+
+IU ut2 emailInvalido telefoneInvalido Juan Utilizador Dois
+Espanha
+morada invalida
+
+UU ut2 email2 211111111
+morada misteriosa
+
+IU prop5 email5 211111111 Mike Proprietario Cinco
+UK
+morada desconhecida
+
+AH casa5 prop5 200 10 Londres
+extraordinario
+morada em Londres
+
+IU ut3 email3 211111111 Joana Utilizadora Tres
+Portugal
+morada secreta
+
+IU ut4 email4 211111111 Julia Utilizadora Quatro
+Portugal
+morada indefinida
+
+IU ut5 email5 211111111 Jean Utilizador Cinco
+Franca
+morada desconhecida
+
+IU prop2 email2 211111111 Maria Proprietaria Dois
+Espanha
+morada misteriosa
+
+IU prop3 email3 211111111 Madalena Proprietaria Tres
+Portugal
+morada secreta
+
+AH casa2 prop2 50 5 Sevilha
+espantoso
+morada em Sevilha
+
+IU prop4 email4 211111111 Matilde Proprietaria Quatro
+Portugal
+morada indefinida
+
+AH casa1 prop1 50 5 Funchal
+boas vistas
+morada no Funchal
+
+AH casa3 prop3 70 5 Porto
+indescritivel
+morada no Porto
+
+AH casa4 prop4 100 10 Albufeira
+5min da praia
+morada em Albufeira
+
+GU ut1
+
+GU ut2
+
+GU ut3
+
+GU ut4
+
+GU ut5
+
+GU prop1
+
+GU prop2
+
+GU prop3
+
+GU prop4
+
+GU prop5
+
+GH casa1
+
+GH casa2
+
+GH casa3
+
+GH casa4
+
+GH casa5
+
+RU ut2
+
+RU ut1
+
+RH casa3
+
+RU prop1
+
+RU prop3
+
+RU ut2
+
+RU ut6
+
+AT ut1 casa1 10
+
+AT ut2 casa6 10
+
+AT ut3 casa6 10
+
+AT ut3 casa1
+
+AT ut4 casa4 4
+
+AT ut4 casa5 4
+
+AT ut5 casa5 5
+
+AT ut5 casa5 5
+
+AT prop1 casa1 10
+
+AT prop1 casa1
+
+AT prop1 casa4 1
+
+AT prop1 casa5 1
+
+AT prop2 casa1 2
+
+AT prop2 casa1 2
+
+AT prop4 casa1 4
+
+AT prop4 casa5 4
+
+GU ut1
+
+GU ut2
+
+GU ut3
+
+GU ut4
+
+GU ut5
+
+GU ut6
+
+GU prop1
+
+GU prop2
+
+GU prop3
+
+GU prop4
+
+GU prop5
+
+LH ut4
+
+LH prop1
+
+LH prop2
+
+LH prop3
+
+LH prop4
+
+LH prop5
+
+LT ut1
+
+LT ut2
+
+LT ut3
+
+LT ut4
+
+LT ut5
+
+LT prop1
+
+LT prop2
+
+LT prop3
+
+LT prop4
+
+LT prop5
+
+PH 3 Funchal
+
+PH 3 Sevilha
+
+PH 3 Porto
+
+PH 3 Albufeira
+
+PH 3 Londres
+
+PH 5 Funchal
+
+PH 5 Sevilha
+
+PH 5 Porto
+
+PH 5 Albufeira
+
+PH 5 Londres
+
+PH 10 Funchal
+
+PH 10 Sevilha
+
+PH 10 Porto
+
+PH 10 Albufeira
+
+PH 10 Londres
+
+PH 10 Madrid
+
+LB Funchal
+
+LB Sevilha
+
+LB Porto
+
+LB Albufeira
+
+LB Londres
+
+LB Madrid
+
+XS

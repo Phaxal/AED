@@ -1,0 +1,473 @@
+AH casaA user1 20 2 Almada
+uma descricao
+morada da casa
+
+AH casaB user1 20 4 Almada
+uma descricao
+morada da casa
+
+LH user1
+
+RH casaB
+
+LH user1
+
+RH casaA
+
+LH user1
+
+AH casaA user1 1000 20 Setubal
+uma descricao
+morada da casa
+
+AH casaB user1 940 18 Porto
+uma descricao
+morada da casa
+
+AT user1 casaB 10
+
+AT user2 casaB 15
+
+RH casaB
+
+AT user1 casaA
+
+RH casaA
+
+AH casaC user1 600 16 Aveiro
+uma descricao
+morada da casa
+
+AH casaD user1 420 14 Braga
+uma descricao
+morada da casa
+
+AH casaE user1 500 12 Sintra
+uma descricao
+morada da casa
+
+AH casaF user1 400 10 Covilha
+uma descricao
+morada da casa
+
+AH casaG user1 320 8 Lisboa
+uma descricao
+morada da casa
+
+AH casaJ user1 100 2 Lisboa
+uma descricao
+morada da casa
+
+AH casaH user1 180 6 Braga
+uma descricao
+morada da casa
+
+AH casaI user1 172 4 Lisboa
+uma descricao
+morada da casa
+
+AH casaAA user2 720 19 Faro
+uma descricao
+morada da casa
+
+AH casaAB user2 200 17 Beja
+uma descricao
+morada da casa
+
+AH casaAC user2 600 15 Aveiro
+uma descricao
+morada da casa
+
+AH casaAD user2 420 13 Braga
+uma descricao
+morada da casa
+
+AH casaAE user2 666 11 Cascais
+uma descricao
+morada da casa
+
+AH casaAF user2 200 9 Covilha
+uma descricao
+morada da casa
+
+AH casaAG user2 150 7 Porto
+uma descricao
+morada da casa
+
+AH casaAJ user2 200 5 Lisboa
+uma descricao
+morada da casa
+
+AH casaAH user2 90 3 Porto
+uma descricao
+morada da casa
+
+AH casaAI user2 40 1 Lisboa
+uma descricao
+morada da casa
+
+AH casaBA user3 720 19 Almada
+uma descricao
+morada da casa
+
+AH casaBB user3 200 17 Loule
+uma descricao
+morada da casa
+
+AH casaBC user3 600 15 Setubal
+uma descricao
+morada da casa
+
+AH casaBD user3 420 13 Coimbra
+uma descricao
+morada da casa
+
+AH casaBE user3 390 11 Coimbra
+uma descricao
+morada da casa
+
+AH casaBF user3 300 9 Porto
+uma descricao
+morada da casa
+
+AH casaBG user3 150 7 Viseu
+uma descricao
+morada da casa
+
+AH casaBJ user3 100 5 Braganca
+uma descricao
+morada da casa
+
+AH casaBH user3 120 3 Lisboa
+uma descricao
+morada da casa
+
+AH casaBI user3 20 1 Braganca
+uma descricao
+morada da casa
+
+AH houseBA user4 720 20 Sesimbra
+uma descricao
+morada da house
+
+AH houseBB user4 900 18 Lisboa
+uma descricao
+morada da house
+
+AH houseBC user4 700 16 Lisboa
+uma descricao
+morada da house
+
+AH houseBD user4 420 14 Alcacer do Sal
+uma descricao
+morada da house
+
+AH houseBE user4 390 12 Evora
+uma descricao
+morada da house
+
+AH houseBF user4 300 10 Portalegre
+uma descricao
+morada da house
+
+AH houseBG user4 150 8 Leiria
+uma descricao
+morada da house
+
+AH houseBJ user4 100 6 Leiria
+uma descricao
+morada da house
+
+AH houseBH user4 120 4 Porto
+uma descricao
+morada da house
+
+AH houseBI user4 50 2 Porto
+uma descricao
+morada da house
+
+AH casaZZ user5 720 19 Sines
+uma descricao
+morada da casa
+
+AH casaZY user5 450 17 Vila Real de Santo Antonio
+uma descricao
+morada da casa
+
+AH casaZT user5 450 15 Seixal
+uma descricao
+morada da casa
+
+AH casaZK user5 420 13 Ilha das Flores
+uma descricao
+morada da casa
+
+AH casaZA user5 390 11 Lisboa
+uma descricao
+morada da casa
+
+AH casaZB user5 300 9 Porto
+uma descricao
+morada da casa
+
+AH casaZR user5 150 7 Viseu
+uma descricao
+morada da casa
+
+AH casaZX user5 100 5 Berlengas
+uma descricao
+morada da casa
+
+AH casaZQ user5 120 3 gUardA
+uma descricao
+morada da casa
+
+AH casaZO user5 20 1 VISeu
+uma descricao
+morada da casa
+
+AH mansionBA user6 1720 20 Porto
+uma descricao
+morada da mansion
+
+AH mansionBB user6 1400 18 Porto
+uma descricao
+morada da mansion
+
+AH mansionBC user6 650 16 Porto
+uma descricao
+morada da mansion
+
+AH mansionBD user6 500 14 Porto
+uma descricao
+morada da mansion
+
+AH mansionBE user6 390 12 Lisboa
+uma descricao
+morada da mansion
+
+AH mansionBF user6 300 10 Almada
+uma descricao
+morada da mansion
+
+AH mansionBG user6 400 8 Lisboa
+uma descricao
+morada da mansion
+
+AH mansionBJ user6 300 6 Almada
+uma descricao
+morada da mansion
+
+AH mansionBH user6 200 4 Almada
+uma descricao
+morada da mansion
+
+AH mansionBI user6 100 2 Porto
+uma descricao
+morada da mansion
+
+AH casaParque user7 720 19 PoRto
+uma descricao
+morada da casa
+
+AH casaEstrada user7 450 17 PorTO
+uma descricao
+morada da casa
+
+AH casaRio user7 450 15 LisBoa
+uma descricao
+morada da casa
+
+AH casaTerreno user7 420 13 lIsBoa
+uma descricao
+morada da casa
+
+AH casaPlantacao user7 390 11 PORto
+uma descricao
+morada da casa
+
+AH casaSelva user7 300 9 Almada
+uma descricao
+morada da casa
+
+AH casaEco user7 150 7 Lisboa
+uma descricao
+morada da casa
+
+AH casaApartamento user7 100 5 Guarda
+uma descricao
+morada da casa
+
+AH casaRustica user7 120 3 Vila REal De Santo AnTONIO
+uma descricao
+morada da casa
+
+AH casaMuseu user7 20 1 VILA REAL de SANTO ANTONIO
+uma descricao
+morada da casa
+
+LH user1
+
+LH user7
+
+PH 1 Vila Real de Santo Antonio
+
+PH 10 Lisboa
+
+PH 3 Almada
+
+PH 17 Porto
+
+PH 4 Porto
+
+PH 2 Alcacer do Sal
+
+LB Coimbra
+
+AT user1 casaBE 20
+
+AT user1 casaBD 10
+
+LB Coimbra
+
+AT user7 casaBE 4
+
+AT user7 casaBD 16
+
+LB Coimbra
+
+AT user1 casaPlantacao 17
+
+AT user1 casaEstrada 3
+
+AT user1 mansionBI 18
+
+AT user1 casainexistente 12
+
+LT user1
+
+AT user1 CASAPARQUE 14
+
+LT user1
+
+AT user7 CASAparqUE 
+
+AT user7 casaPlantacao 
+
+LB Porto
+
+LB Almada
+
+AT user1 mansionBF 6
+
+AT user2 mansionBF 6
+
+AT user3 mansionBF 0
+
+AT user3 mansionBF 1
+
+AT user3 casaSelva 1
+
+AT user4 casaSelva 2
+
+AT user5 casaSelva 21
+
+AT user5 casaSelva 10
+
+AT user6 mansionBF
+
+LB Almada
+
+AT user5 mansionBF 20
+
+LB Almada
+
+PH 3 Guarda
+
+PH 7 Cascais
+
+PH 20 Famalicao
+
+LB Famalicao
+
+AT user1 houseBB 12
+
+AT user2 houseBB 14
+
+AT user3 houseBB 5
+
+AT user4 houseBB
+
+AT user5 houseBB 17
+
+AT user6 houseBB 14
+
+AT user1 houseBC 15
+
+AT user2 houseBC 17
+
+AT user3 houseBC 1
+
+AT user4 houseBC
+
+AT user5 houseBC 20
+
+AT user6 houseBC 19
+
+AT user1 casaAJ 3
+
+AT user2 casaaj 6
+
+AT user3 casaaJ 14
+
+AT user4 CaSaAJ
+
+AT user5 casaAJ 10
+
+AT user6 casaAJ 12
+
+AT user7 casaAJ 13
+
+AT user1 casaZA 6
+
+AT user2 casaZA 8
+
+AT user3 casaZA 10
+
+AT user4 casaZA 3
+
+AT user5 casaZA 
+
+AT user6 casaZA 17
+
+AT user7 casaZA 8
+
+AT user3 casaEco 15
+
+AT user3 casaRio 15
+
+AT user2 casaTerreno 14
+
+AT user2 casaG 14
+
+AT user7 mansionBG 16
+
+AT user2 casaJ 16
+
+AT user2 casaI 16
+
+LT user3
+
+LT user4
+
+LB Lisboa
+
+PH 3 Lisboa
+
+RH casaBH
+
+LB Lisboa
+
+PH 3 Lisboa
+
+XS

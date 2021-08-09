@@ -1,0 +1,476 @@
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+casaA uma descricao morada da casa Almada 20 2 0
+casaB uma descricao morada da casa Almada 20 4 0
+house1 descricao da house1 morada da house1 Place1 50 10 20
+
+Propriedade removida com sucesso.
+
+casaA uma descricao morada da casa Almada 20 2 0
+house1 descricao da house1 morada da house1 Place1 50 10 20
+
+Propriedade removida com sucesso.
+
+house1 descricao da house1 morada da house1 Place1 50 10 20
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Viajante e o proprietario.
+
+Estadia adicionada com sucesso.
+
+Propriedade ja foi visitada.
+
+Estadia adicionada com sucesso.
+
+Propriedade ja foi visitada.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+Propriedade adicionada com sucesso.
+
+casaA uma descricao morada da casa Setubal 1000 20 0
+casaB uma descricao morada da casa Porto 940 18 15
+casaC uma descricao morada da casa Aveiro 600 16 0
+casaD uma descricao morada da casa Braga 420 14 0
+casaE uma descricao morada da casa Sintra 500 12 0
+casaF uma descricao morada da casa Covilha 400 10 0
+casaG uma descricao morada da casa Lisboa 320 8 0
+casaH uma descricao morada da casa Braga 180 6 0
+casaI uma descricao morada da casa Lisboa 172 4 0
+casaJ uma descricao morada da casa Lisboa 100 2 0
+house1 descricao da house1 morada da house1 Place1 50 10 20
+
+casaApartamento uma descricao morada da casa Guarda 100 5 0
+casaEco uma descricao morada da casa Lisboa 150 7 0
+casaEstrada uma descricao morada da casa PorTO 450 17 0
+casaMuseu uma descricao morada da casa VILA REAL de SANTO ANTONIO 20 1 0
+casaParque uma descricao morada da casa PoRto 720 19 0
+casaPlantacao uma descricao morada da casa PORto 390 11 0
+casaRio uma descricao morada da casa LisBoa 450 15 0
+casaRustica uma descricao morada da casa Vila REal De Santo AnTONIO 120 3 0
+casaSelva uma descricao morada da casa Almada 300 9 0
+casaTerreno uma descricao morada da casa lIsBoa 420 13 0
+house7 descricao da house7 morada da house7 Place7 50 10 20
+
+casaMuseu uma descricao morada da casa VILA REAL de SANTO ANTONIO 20 1 0
+casaRustica uma descricao morada da casa Vila REal De Santo AnTONIO 120 3 0
+casaZY uma descricao morada da casa Vila Real de Santo Antonio 450 17 0
+
+casaZA uma descricao morada da casa Lisboa 390 11 0
+mansionBE uma descricao morada da mansion Lisboa 390 12 0
+casaTerreno uma descricao morada da casa lIsBoa 420 13 0
+casaRio uma descricao morada da casa LisBoa 450 15 0
+houseBC uma descricao morada da house Lisboa 700 16 0
+houseBB uma descricao morada da house Lisboa 900 18 0
+
+mansionBH uma descricao morada da mansion Almada 200 4 0
+mansionBJ uma descricao morada da mansion Almada 300 6 0
+casaSelva uma descricao morada da casa Almada 300 9 0
+mansionBF uma descricao morada da mansion Almada 300 10 0
+casaBA uma descricao morada da casa Almada 720 19 0
+
+casaEstrada uma descricao morada da casa PorTO 450 17 0
+casaB uma descricao morada da casa Porto 940 18 15
+mansionBB uma descricao morada da mansion Porto 1400 18 0
+casaParque uma descricao morada da casa PoRto 720 19 0
+mansionBA uma descricao morada da mansion Porto 1720 20 0
+
+houseBH uma descricao morada da house Porto 120 4 0
+casaAG uma descricao morada da casa Porto 150 7 0
+casaBF uma descricao morada da casa Porto 300 9 0
+casaZB uma descricao morada da casa Porto 300 9 0
+casaPlantacao uma descricao morada da casa PORto 390 11 0
+mansionBD uma descricao morada da mansion Porto 500 14 0
+mansionBC uma descricao morada da mansion Porto 650 16 0
+casaEstrada uma descricao morada da casa PorTO 450 17 0
+casaB uma descricao morada da casa Porto 940 18 15
+mansionBB uma descricao morada da mansion Porto 1400 18 0
+casaParque uma descricao morada da casa PoRto 720 19 0
+mansionBA uma descricao morada da mansion Porto 1720 20 0
+
+houseBD uma descricao morada da house Alcacer do Sal 420 14 0
+
+casaBD uma descricao morada da casa Coimbra 420 13 0
+casaBE uma descricao morada da casa Coimbra 390 11 0
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+casaBE uma descricao morada da casa Coimbra 390 11 20
+casaBD uma descricao morada da casa Coimbra 420 13 10
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+casaBD uma descricao morada da casa Coimbra 420 13 26
+casaBE uma descricao morada da casa Coimbra 390 11 24
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Propriedade inexistente.
+
+mansionBI uma descricao morada da mansion Porto 100 2 18
+casaEstrada uma descricao morada da casa PorTO 450 17 3
+casaPlantacao uma descricao morada da casa PORto 390 11 17
+casaBD uma descricao morada da casa Coimbra 420 13 26
+casaBE uma descricao morada da casa Coimbra 390 11 24
+casaA uma descricao morada da casa Setubal 1000 20 0
+
+Estadia adicionada com sucesso.
+
+casaParque uma descricao morada da casa PoRto 720 19 14
+mansionBI uma descricao morada da mansion Porto 100 2 18
+casaEstrada uma descricao morada da casa PorTO 450 17 3
+casaPlantacao uma descricao morada da casa PORto 390 11 17
+casaBD uma descricao morada da casa Coimbra 420 13 26
+casaBE uma descricao morada da casa Coimbra 390 11 24
+casaA uma descricao morada da casa Setubal 1000 20 0
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+mansionBI uma descricao morada da mansion Porto 100 2 18
+casaPlantacao uma descricao morada da casa PORto 390 11 17
+casaB uma descricao morada da casa Porto 940 18 15
+casaParque uma descricao morada da casa PoRto 720 19 14
+casaEstrada uma descricao morada da casa PorTO 450 17 3
+casaAG uma descricao morada da casa Porto 150 7 0
+casaAH uma descricao morada da casa Porto 90 3 0
+casaBF uma descricao morada da casa Porto 300 9 0
+casaZB uma descricao morada da casa Porto 300 9 0
+houseBH uma descricao morada da house Porto 120 4 0
+houseBI uma descricao morada da house Porto 50 2 0
+mansionBA uma descricao morada da mansion Porto 1720 20 0
+mansionBB uma descricao morada da mansion Porto 1400 18 0
+mansionBC uma descricao morada da mansion Porto 650 16 0
+mansionBD uma descricao morada da mansion Porto 500 14 0
+
+casaBA uma descricao morada da casa Almada 720 19 0
+casaSelva uma descricao morada da casa Almada 300 9 0
+mansionBF uma descricao morada da mansion Almada 300 10 0
+mansionBH uma descricao morada da mansion Almada 200 4 0
+mansionBJ uma descricao morada da mansion Almada 300 6 0
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Dados invalidos.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Dados invalidos.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+casaSelva uma descricao morada da casa Almada 300 9 13
+mansionBF uma descricao morada da mansion Almada 300 10 13
+casaBA uma descricao morada da casa Almada 720 19 0
+mansionBH uma descricao morada da mansion Almada 200 4 0
+mansionBJ uma descricao morada da mansion Almada 300 6 0
+
+Estadia adicionada com sucesso.
+
+mansionBF uma descricao morada da mansion Almada 300 10 33
+casaSelva uma descricao morada da casa Almada 300 9 13
+casaBA uma descricao morada da casa Almada 720 19 0
+mansionBH uma descricao morada da mansion Almada 200 4 0
+mansionBJ uma descricao morada da mansion Almada 300 6 0
+
+casaZQ uma descricao morada da casa gUardA 120 3 0
+casaApartamento uma descricao morada da casa Guarda 100 5 0
+
+casaAE uma descricao morada da casa Cascais 666 11 0
+
+Pesquisa nao devolveu resultados.
+
+Pesquisa nao devolveu resultados.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Viajante e o proprietario.
+
+Estadia adicionada com sucesso.
+
+Viajante nao e o proprietario.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+Estadia adicionada com sucesso.
+
+casaRio uma descricao morada da casa LisBoa 450 15 15
+casaEco uma descricao morada da casa Lisboa 150 7 15
+casaZA uma descricao morada da casa Lisboa 390 11 52
+casaAJ uma descricao morada da casa Lisboa 200 5 52
+houseBC uma descricao morada da house Lisboa 700 16 72
+houseBB uma descricao morada da house Lisboa 900 18 62
+casaSelva uma descricao morada da casa Almada 300 9 13
+mansionBF uma descricao morada da mansion Almada 300 10 33
+
+casaZA uma descricao morada da casa Lisboa 390 11 52
+houseBC uma descricao morada da house Lisboa 700 16 72
+houseBB uma descricao morada da house Lisboa 900 18 62
+casaSelva uma descricao morada da casa Almada 300 9 13
+
+houseBC uma descricao morada da house Lisboa 700 16 72
+houseBB uma descricao morada da house Lisboa 900 18 62
+casaAJ uma descricao morada da casa Lisboa 200 5 52
+casaZA uma descricao morada da casa Lisboa 390 11 52
+casaI uma descricao morada da casa Lisboa 172 4 16
+casaJ uma descricao morada da casa Lisboa 100 2 16
+mansionBG uma descricao morada da mansion Lisboa 400 8 16
+casaEco uma descricao morada da casa Lisboa 150 7 15
+casaRio uma descricao morada da casa LisBoa 450 15 15
+casaG uma descricao morada da casa Lisboa 320 8 14
+casaTerreno uma descricao morada da casa lIsBoa 420 13 14
+casaAI uma descricao morada da casa Lisboa 40 1 0
+casaBH uma descricao morada da casa Lisboa 120 3 0
+mansionBE uma descricao morada da mansion Lisboa 390 12 0
+
+casaBH uma descricao morada da casa Lisboa 120 3 0
+casaI uma descricao morada da casa Lisboa 172 4 16
+casaAJ uma descricao morada da casa Lisboa 200 5 52
+casaEco uma descricao morada da casa Lisboa 150 7 15
+casaG uma descricao morada da casa Lisboa 320 8 14
+mansionBG uma descricao morada da mansion Lisboa 400 8 16
+casaZA uma descricao morada da casa Lisboa 390 11 52
+mansionBE uma descricao morada da mansion Lisboa 390 12 0
+casaTerreno uma descricao morada da casa lIsBoa 420 13 14
+casaRio uma descricao morada da casa LisBoa 450 15 15
+houseBC uma descricao morada da house Lisboa 700 16 72
+houseBB uma descricao morada da house Lisboa 900 18 62
+
+Propriedade removida com sucesso.
+
+houseBC uma descricao morada da house Lisboa 700 16 72
+houseBB uma descricao morada da house Lisboa 900 18 62
+casaAJ uma descricao morada da casa Lisboa 200 5 52
+casaZA uma descricao morada da casa Lisboa 390 11 52
+casaI uma descricao morada da casa Lisboa 172 4 16
+casaJ uma descricao morada da casa Lisboa 100 2 16
+mansionBG uma descricao morada da mansion Lisboa 400 8 16
+casaEco uma descricao morada da casa Lisboa 150 7 15
+casaRio uma descricao morada da casa LisBoa 450 15 15
+casaG uma descricao morada da casa Lisboa 320 8 14
+casaTerreno uma descricao morada da casa lIsBoa 420 13 14
+casaAI uma descricao morada da casa Lisboa 40 1 0
+mansionBE uma descricao morada da mansion Lisboa 390 12 0
+
+casaI uma descricao morada da casa Lisboa 172 4 16
+casaAJ uma descricao morada da casa Lisboa 200 5 52
+casaEco uma descricao morada da casa Lisboa 150 7 15
+casaG uma descricao morada da casa Lisboa 320 8 14
+mansionBG uma descricao morada da mansion Lisboa 400 8 16
+casaZA uma descricao morada da casa Lisboa 390 11 52
+mansionBE uma descricao morada da mansion Lisboa 390 12 0
+casaTerreno uma descricao morada da casa lIsBoa 420 13 14
+casaRio uma descricao morada da casa LisBoa 450 15 15
+houseBC uma descricao morada da house Lisboa 700 16 72
+houseBB uma descricao morada da house Lisboa 900 18 62
+
+Gravando e terminando...
+

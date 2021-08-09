@@ -1,0 +1,114 @@
+UU jsmith jsmith@hotmail.com 212121219
+Kensington Palace, Kensington Gardens, London W8 4PX
+
+RU jsmith
+
+GU jsmith
+
+AH loftLx jsmith 60 4 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+RH flatCaparica
+
+GH loftLx
+
+AT jsmith loftLx 15
+
+LH jsmith
+
+LT jsmith
+
+PH 2 Lisboa
+
+LB local
+
+IU jsmith jsmith@gmail.com 212121212 Jonh Smith
+United Kingdom
+South Carolina
+
+GU JSMITH
+
+IU JSmith jsmith@hotmail.com 212121219 Jonh Smith Jr
+United Kingdom
+Kensington Palace, Kensington Gardens, London W8 4PX
+
+GU JSilva
+
+UU JSilva jsilva@gmail.com 213434356
+Av. da Liberdade, 134, Lisboa, Portugal
+
+UU jsmith jsmith@hotmail.com 212121219
+Kensington Palace, Kensington Gardens, London W8 4PX
+
+GU jsmith
+
+LT JSMITH
+
+RU JSmith 
+
+GU JSmith
+
+IU JSilva jsilva@hotmail.com 213434356 Joao Silva
+Portugal
+Av. da Liberdade, 134, Lisboa, Portugal
+
+GH homeLx
+
+LH jsilva
+
+LH jsmith
+
+LT jsilva
+
+LT jsmith
+
+AH loftLx jsilva -10 4 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+AH loftLx jsilva 60 21 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+AH loftLx jsilva 60 0 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+AH loftLx jsmith 60 4 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+AH loftLx jsilva 60 4 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+AH LOFTLX jsilva 60 4 Bairro Alto
+Loft near Historical Center
+Rua da Rosa, 110, Lisboa, Portugal
+
+LH JSILVA
+
+GH homeLx
+
+GH loftLx
+
+RU jsilva
+
+RH homeCaparica
+
+PH 0 Bairro Alto
+
+PH 21 Bairro Alto
+
+PH 4 Lisboa
+
+PH 3 bairro alto
+
+LB Almada
+
+LB Bairro alto
+
+XS
+
+
