@@ -1,2 +1,2 @@
-HomeAway Project for the subject of AED. Stage 1.
+HomeAway Project for the subject of AED. Final delivery + .zip for each stage
 
